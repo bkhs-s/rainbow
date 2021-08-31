@@ -1,1 +1,7 @@
 This is rainbow.txt
+APPEND
+Using git < 1
+remove dev branch and add something.
+ii
+CRLF or LF
+mm
