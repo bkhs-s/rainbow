@@ -1,4 +1,4 @@
 This is rainbow.txt
 APPEND
 Using git < 1
-dev branch
+remove dev branch
