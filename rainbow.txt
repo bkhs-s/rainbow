@@ -1,1 +1,2 @@
 This is rainbow.txt
+Using git < 1
